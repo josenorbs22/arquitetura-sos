@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/build",
+  "command": "/usr/bin/c++   -I/usr/lib/x86_64-linux-gnu/pkgconfig/../../include  -g   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c \"/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/main.cpp\"",
+  "file": "/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/main.cpp"
+},
+{
+  "directory": "/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/build",
+  "command": "/usr/bin/c++   -I/usr/lib/x86_64-linux-gnu/pkgconfig/../../include  -g   -std=gnu++17 -o CMakeFiles/main.dir/fs.cpp.o -c \"/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/fs.cpp\"",
+  "file": "/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/fs.cpp"
+},
+{
+  "directory": "/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/build",
+  "command": "/usr/bin/c++   -I/usr/lib/x86_64-linux-gnu/pkgconfig/../../include  -g   -std=gnu++17 -o CMakeFiles/main.dir/sha256.cpp.o -c \"/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/sha256.cpp\"",
+  "file": "/home/jose/Arquitetura de SOs/Ex_sistema_arquivos/sha256.cpp"
+}
+]
